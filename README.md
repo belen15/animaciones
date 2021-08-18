@@ -1,7 +1,10 @@
 # React motion
 
+## Instalacion
+
     npm i framer-motion
-    
+   
+## Component   
     import { motion } from "framer-motion";
     
      return(
