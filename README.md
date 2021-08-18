@@ -4,7 +4,7 @@
 
     npm i framer-motion
    
-## Component   
+## Codigo   
     import { motion } from "framer-motion";
     
      return(
